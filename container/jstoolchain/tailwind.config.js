@@ -1,5 +1,5 @@
 module.exports = {
-  content: [],
+  content: ["../polls/templates/polls/*.{html,js}"],
   theme: {
     extend: {},
   },
